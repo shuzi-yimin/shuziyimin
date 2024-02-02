@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.6DK9nIBo.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Movies/Movies.md","filePath":"Movies/Movies.md","lastUpdated":null}'),s={name:"Movies/Movies.md"};function a(r,i,n,c,d,p){return o(),t("div")}const m=e(s,[["render",a]]);export{l as __pageData,m as default};
