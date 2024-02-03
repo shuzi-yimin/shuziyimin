@@ -25,7 +25,7 @@ export default defineConfig({
       },
       { text: '账号篇', 
       items: [
-        { text: '简单介绍', link: '/account/'},
+        { text: '账号', link: '/account/account.md'},
         { text: '支付', link: '/account/pay'},
         { text: '手机', link: '/account/phonenummber'}
       ]
