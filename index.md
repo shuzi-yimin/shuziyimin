@@ -1,46 +1,59 @@
 ---
-title: 数字移民教科书
-editLink: true
-description: 数字移民;数字游民
-keywords: 科学上网
+layout: home
+
+title: 数字移民导航站
+titleTemplate: 数字移民导航站
+
+hero:
+  name: 数字移民教科书
+  # text: 0 基础数字移民教科书 
+  tagline: 成为数字移民，做数字世界的自由民。
+  actions:
+    - theme: brand
+      text: 快速开始
+      link: /start/index.md#start
+    - theme: alt
+      text: 目录
+      link: /start/
+  image:
+    src: /book.svg
+    width: 240
+    height: 240
+    alt: 数字移民教科书
+
+features:
+  - icon: 🚀
+    title: 科学上网
+    details: 自由地使用互联网：Google、ChatGPT 、Telegram …
+  - icon: 📺
+    title: 视频与音乐
+    details: 最优质的流媒体：YouTube 、Netflix、Disney+、Spotify …
+  - icon: 🆕
+    title: 新闻与资讯
+    details: 离信息更近，离事实更近。
+  - icon: 🔒
+    title: 安全与隐私
+    details: 全方位保护好自己，放心地冲浪。
 ---
 
-# 新手入门
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
 
-## 什么是数字移民？
+  /* --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
+  --vp-home-hero-image-filter: blur(44px); */
+}
 
-身处中国大陆，想要肉身移民是困难的。
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
 
-但在数字世界里，成为「数字移民」，获得跟自由世界的人们同样的信息、资源、服务和便利，比如 ChatGPT、Netflix 等…又或者是各种一手的新闻资讯等等。
-
-是简单的。
-
-## 本书有什么用？
-
-本书是一本能让你从 0 基础成为一位优秀「数字移民」的教科书。
-
-
-## 什么人，适合这本书？
-
-你可以是 0 基础想要成为「数字移民」的人，这是本书主要面向的人群，我们将用最简单明了的话，让你能在短时间内上手；
-
-你可以是已经是「数字移民」，想要了解这方面的进阶知识、技能或技巧；
-
-你也可以是在「数字移民」上遇到某个具体问题，来寻找解决方案的人；
-
-……
-
-总之，只要你是一个`主动的人`：能找到这里，能主动思考，能跟着教程动手操作，那这本书就适合你，就能给你带来帮助、指引或答案。
-
-
-## 什么人，不适合这本书？
-
-- 伸手党：遇到问题时不会主动尝试去解决、期望什么都送到嘴边的人。
-- 白嫖党：本书时完全免费的；但包括 `科学上网` 在内的诸多第三方服务，都是需要付费的。
-- 资深「数字移民」：本书主要是面向那些尚未、或刚移民不久的「数字移民」，对你的价值可能不大。
-- 政治高度敏感人士：我们的 [宗旨]() 是尽量不涉及政治观点，但难免冒犯到你。
-
-## 快速开始
-
-- 如果你是新手，可以先从 [科学上网](/general/internet.md) 开始。
-- 你也可以从本书的 `目录` 或 `搜索` 中查找你感兴趣的部分。
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(68px);
+  }
+}
+</style>
