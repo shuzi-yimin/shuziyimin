@@ -81,7 +81,10 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '关于我们', link: '/about/' },
-          { text: '声明与致谢', link: '/about/statement' },
+          { text: '加入我们', link: '/about/joinus' },   
+          { text: '更新日志', link: '/about/changelog' },  
+          { text: '声明', link: '/about/statement' },  
+          { text: '致谢', link: '/about/acknowledgments' },  
           { text: '感言', link: '/about/remarks' }
         ]
       }

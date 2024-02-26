@@ -16,13 +16,13 @@
 
 Spotify ，声破天，全球最大的音乐流媒体服务之一。
 
-它的国际曲库非常丰富，特别是在欧美音乐方面。
+作为行业领导者，它的各方面体验都是首屈一指无可挑剔的。
 
 ## YouTube Music
 
 谷歌家的音乐流媒体，它被打包在 YouTube Prime 订阅中。
 
-YouTube Music 的一个独特之处在于它紧密结合了 YouTube 的视频内容，使用户可以在听音乐的同时观看相关的音乐视频和演唱会录像。
+YouTube Music 的一个独特之处在于它紧密结合了 YouTube 的视频内容，可以在听音乐的同时观看相关的音乐视频和演唱会录像。
 
 ## Prime Music
 
@@ -34,4 +34,4 @@ YouTube Music 的一个独特之处在于它紧密结合了 YouTube 的视频内
 1. 如果你主要听`古典乐`，选 Apple Music，它的 Apple Music Classical 无敌。
 1. 如果你主要用`苹果设备`，选 Apple Music。喔对了，提一嘴：HomePod 和 AirPods 有多爽，谁用谁知道～
 1. 如果你喜欢看`音乐视频`，那 YouTube Premium 包含的 YouTube Music 是一个不错的选择，如果你还经常用 YouTube ，那最好不过～
-1. 如果你没有上面这些，又恰好有亚马逊 Prime 会员账号，那 Prime Music 也是极好的。
+1. 如果你没有上面这些，又恰好有亚马逊 Prime 账号，那 Prime Music 也是极好的。
